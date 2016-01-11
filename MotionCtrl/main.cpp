@@ -1,4 +1,5 @@
 //test the git
+//test the git from local repository
 #include "mainwindow.h"
 #include <QApplication>
 #include <stdio>
